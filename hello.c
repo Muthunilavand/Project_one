@@ -5,5 +5,6 @@ int main(){
    printf("hello World is shit");
    int k = 0;
    str a = "hi";
+
 return 0;
 }
