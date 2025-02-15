@@ -8,6 +8,7 @@ int main(){
 
    printf("hello hellllllllllll");
    char c = 0;
+   skdfjla
 
 return 0;
 }
