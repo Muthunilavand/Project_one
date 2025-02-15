@@ -8,6 +8,10 @@ int main(){
 
    printf("hello hellllllllllll");
    char c = 0;
+   dasdsad
+      asdasd
+   asdasd
+   saddsa
 
 return 0;
 }
