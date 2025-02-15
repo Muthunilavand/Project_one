@@ -6,5 +6,8 @@ int main(){
    int k = 0;
    str a = "hi";
 
+   printf("hello hellllllllllll");
+   char c = 0;
+
 return 0;
 }
