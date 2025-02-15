@@ -2,6 +2,6 @@
 
 int main(){
    printf("hello World hello world");
-   int a=6;
+   printf("hello World is shit");
 return 0;
 }
